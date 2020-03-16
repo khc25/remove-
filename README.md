@@ -1,1 +1,3 @@
-# remove-
+# remove- .git
+
+rm -rf .git
